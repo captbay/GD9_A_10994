@@ -1,4 +1,4 @@
-package com.example.camera
+package com.example.GD9_A_10994
 
 import org.junit.Test
 
