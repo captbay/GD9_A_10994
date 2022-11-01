@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.GD9_A_10994">
+    package="com.example.camera">
 
     <application
         android:allowBackup="true"
@@ -14,11 +14,7 @@
         android:theme="@style/Theme.Camera"
         tools:targetApi="31">
         <activity
-<<<<<<< Updated upstream
-            android:name="com.example.GD9_A_10994.MainActivity"
-=======
             android:name="com.example.camera.MainActivity"
->>>>>>> Stashed changes
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

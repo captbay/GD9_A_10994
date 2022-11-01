@@ -1,4 +1,4 @@
-package com.example.GD9_A_10994
+package com.example.camera
 
 
 import android.graphics.Color
