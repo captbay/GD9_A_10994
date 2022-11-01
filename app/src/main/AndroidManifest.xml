@@ -14,7 +14,11 @@
         android:theme="@style/Theme.Camera"
         tools:targetApi="31">
         <activity
+<<<<<<< Updated upstream
             android:name="com.example.GD9_A_10994.MainActivity"
+=======
+            android:name="com.example.camera.MainActivity"
+>>>>>>> Stashed changes
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
